@@ -27,3 +27,12 @@ Tool & Env <br/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+
+<br/><br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaeruin&show_icons=true&theme=radical)
+
+<br/><br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cms3604)](https://solved.ac/cms3604/)
+
+<br/><br/>
+Contact :: cms3604@naver.com
