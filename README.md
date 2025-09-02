@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&customColorList=0,2,3&height=150&section=header&text=HYEMIN's%20GitHub&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rect&customColorList=0,2,3&height=150&section=header&text=HEAMIN's%20GitHub&fontSize=60)
 <br><br>
 <div align=center> <h2>🙌🏻 Introduction </h2>
   안녕하세요, 백엔드 개발자 혜민입니다. 👋
