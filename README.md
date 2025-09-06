@@ -54,7 +54,8 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cms3604)](https://solved.ac/cms3604/)
+코테 문제 처음부터 다시 풉니다.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeheamin)](https://solved.ac/chaeheamin/)
 
 <br/><br/>
 Contact :: cms3604@naver.com
