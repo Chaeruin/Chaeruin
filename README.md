@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&customColorList=0,2,3&height=150&section=header&text=HEAMIN's%20GitHub&fontSize=60)
 <br><br>
 <div align=center> <h2>🙌🏻 Introduction </h2>
-  안녕하세요, 백엔드 개발자 혜민입니다. 👋
   <br><br>
   <em>내일의 '나'에게 도움이 되는 것은 오직 오늘의 내가 노력하는 것 뿐이다.</em>
 </div>
@@ -42,8 +41,7 @@
 
 <br>
 
-코테 문제 처음부터 다시</br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeheamin)](https://solved.ac/chaeheamin/)
 
-<br/><br/>
-Contact :: cms3604@naver.com
+Contact :: ![Naver](https://img.shields.io/badge/naver-%2303C75A.svg?style=for-the-badge&logo=naver&logoColor=white)(mailto:cms3604@naver.com)
