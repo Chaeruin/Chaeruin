@@ -35,13 +35,7 @@
 <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />  <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />  <img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white" />
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaeruin&show_icons=true&theme=radical)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaeruin&layout=compact)](https://github.com/Chaeruin/github-readme-stats)
-
-<br>
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeheamin)](https://solved.ac/chaeheamin/)
 
-Contact :: ![Naver](https://img.shields.io/badge/naver-%2303C75A.svg?style=for-the-badge&logo=naver&logoColor=white)(mailto:cms3604@naver.com)
+Contact :: <a href="mailto:cms3604@naver.com" target="_blank"> ![Naver](https://img.shields.io/badge/naver-%2303C75A.svg?style=for-the-badge&logo=naver&logoColor=white) </a>
