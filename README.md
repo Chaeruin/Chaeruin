@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect&customColorList=0,2,3&height=150&section=header&text=HEAMIN's%20GitHub&fontSize=60)
-<br><br>
+
+<br>
 <div align=center> <h2>🙌🏻 Introduction </h2>
   <br><br>
   <em>내일의 '나'에게 도움이 되는 것은 오직 오늘의 내가 노력하는 것 뿐이다.</em>
